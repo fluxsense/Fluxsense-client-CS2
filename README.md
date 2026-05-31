@@ -9,7 +9,8 @@ RU:
 - не советую играть с аимботом на официальных серверах valve, это может привести к бану, за это я не несу ответственности, играйте на ваш страх и риск.
 - после успешного инжекта, можно смело открывать меню на F2, в будущем я добавлю поддержку кноки INSERT, но пока будет F2 для удобства
 
-
+Примечение:
+- Модификация является прототипом, в дальнешем она может быть улучшена! если имеются какие либо вопросы, то пишите в личные сообщения телеграмм канала t.me/fluxsense - кроме него я ничего не веду, все апдейты будут здесь!
 
 # Fluxsense-client-CS2
 ENG:
@@ -21,3 +22,6 @@ and now the requirements for running the cheat!
 - inject the cheat STRICTLY during a closed game, I don't know why, but the game will start to lag a lot if it is injected during an open game, in this case I specifically made sure that the loader closes cs in order to avoid crashes, lags, etc., the loader opens cs2 itself and injects the cheat
 - I do not recommend playing with aimbot on the official valve servers, this may lead to a ban, I am not responsible for this, play at your own risk.
 - after successful injection, you can safely open the menu on F2, in the future I will add support for INSERT buttons, but for now it will be F2 for convenience
+
+Note:
+- This modification is a prototype and may be further improved! If you have any questions, please send me a private message on the Telegram channel t.me/fluxsense – I don't maintain anything else outside of that channel, so all updates will be posted there!
