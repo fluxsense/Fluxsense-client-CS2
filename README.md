@@ -11,6 +11,9 @@ RU:
 
 Примечение:
 - Модификация является прототипом, в дальнешем она может быть улучшена! если имеются какие либо вопросы, то пишите в личные сообщения телеграмм канала t.me/fluxsense - кроме него я ничего не веду, все апдейты будут здесь!
+- в этот ехе уже вшит dll файл с читом
+
+Желаю приятной игры!
 
 # Fluxsense-client-CS2
 ENG:
@@ -25,3 +28,6 @@ and now the requirements for running the cheat!
 
 Note:
 - This modification is a prototype and may be further improved! If you have any questions, please send me a private message on the Telegram channel t.me/fluxsense – I don't maintain anything else outside of that channel, so all updates will be posted there!
+- there is already a cheat dll file embedded in this exe
+
+Have a nice game!
