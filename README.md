@@ -31,3 +31,9 @@ Note:
 - there is already a cheat dll file embedded in this exe
 
 Have a nice game!
+
+
+
+UPDATE LOG 02.06.2026
+- update for new version 
+- fix chams
