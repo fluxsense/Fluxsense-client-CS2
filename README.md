@@ -1,10 +1,5 @@
 # Fluxsense-client-CS2
 
-<p align="center">
-  <img src="https://shields.io" alt="Release">
-  <img src="https://shields.io" alt="Stars">
-  <img src="https://shields.io" alt="License">
-</p>
 
 ---
 
