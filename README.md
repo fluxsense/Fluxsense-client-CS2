@@ -42,6 +42,6 @@
 
 ### 🕒 Update Log (02.06.2026)
 * Update for the new game version.
-* Fixed chams (player silhouette rendering issues).
+* Fixed chams.
 
 _Желаем приятной игры! / Have a nice game!_
