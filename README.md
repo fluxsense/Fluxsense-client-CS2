@@ -8,7 +8,7 @@
 
 ---
 
-## 🇷🇺 Русский (Russian)
+## Ru
 
 **Fluxsense** — внутренний легитный чит для CS2 с ESP, аимботом, кастомизацией освещения и скинченджером.
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🇺🇸 English
+## Eng
 
 **Fluxsense** is an internal legit cheat for CS2, featuring ESP, aimbot, lighting customization, and skinchanger.
 
